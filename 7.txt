@@ -1,0 +1,10 @@
+Enviando código ao repositório (ou melhor, REPO)
+remoto
+
+Quando finalizamos uma funcionalidade nova, enviamos
+o código ao repositório remoto, que é o código-fonte;
+
+Esta ação é feito pelo: git push;
+
+Após esta ação, o código do servidor será atualizado
+baseando-se no código local enviado;
