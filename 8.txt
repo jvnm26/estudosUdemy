@@ -3,13 +3,8 @@ Recebendo as mudanças
 É comum também ter que sincronizar o local com as
 mudanças do remoto;
 
-Esta ação é feita pelo: git pull
+Esta ação é feita pelo "git pull"
 
-Após o comando, serão buscadas atualizações, se 
-encontradas, elas serão unidas ao código atual
+Após o comando serão buscadas atualizações, se
+encontradas elas serão unidas ao código atual 
 existente na nossa máquina;
-
---------------------------------
-Agora fiz uma atualização de arquivos
-para reutilizar o git pull
---------------------------------
