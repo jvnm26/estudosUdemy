@@ -1,0 +1,12 @@
+Desfazendo alterações
+
+O arquivo modificado pode ser retornado ao estado original
+Significa que ele vai pegar o arquivo salvo no github e não a ultima alteração no seu computador remoto;
+
+O comando utilizado é o 
+"git checkout"
+
+Após a utilização do mesmo o arquivo sai do staging;
+
+Caso seja feita uma próxima alteração, ele entra em
+staging novamente
